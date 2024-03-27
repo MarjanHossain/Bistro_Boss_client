@@ -18,7 +18,7 @@ import SectionHeading from '../../../component/SectionHeading';
 
 const Category = () => {
     return (
-        <section>
+        <section className='container'>
             {/* heading */}
 
             <SectionHeading
