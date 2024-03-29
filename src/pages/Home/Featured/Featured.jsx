@@ -4,6 +4,7 @@ import featuredImg from '../../../assets/home/featured.jpg'
 const Featured = () => {
     return (
         <section
+            // bg parallax//
             style={{ backgroundImage: `url(${featuredImg})` }}
             className=' mb-20 mx-w-[1440px] mx-20 border bg-black bg-blend-multiply bg-opacity-15 bg-fixed '>
             {/* heading */}
