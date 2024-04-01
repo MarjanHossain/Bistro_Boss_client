@@ -8,3 +8,7 @@ body {
 .container{
   /* @apply  */
 }
+
+.itemsCard{
+  @apply px-20 grid grid-cols-2 gap-8 gap-x-12 pt-20
+}
